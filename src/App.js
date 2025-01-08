@@ -1,6 +1,6 @@
 import './App.css';
-import { ShopItemClass } from './ShopItemClass';
-import { item } from './item';
+import { ShopItemClass } from './components/ShopItemClass';
+import { item } from './components/item';
 
 function App() {
   return (
